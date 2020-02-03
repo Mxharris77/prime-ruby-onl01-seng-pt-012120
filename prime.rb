@@ -7,3 +7,5 @@ def prime?(num)
       true
     end
 end
+
+#I dont get why this works in this form but not others
